@@ -12,8 +12,7 @@
     "develop": "concurrently -i -k -p \"[{name}]\" -n \"Node, TypeScript\" -c \"yellow.bold,cyan.bold\" \"yarn watch-js\" \"yarn watch-ts\"",
     "build-ts": "tsc --skipLibCheck",
     "watch-ts": "tsc -w --skipLibCheck",
-    "watch-js": "nodemon dist/app.js",
-  "start": "node dist/index.js"
+    "watch-js": "nodemon dist/app.js"
   },
   "dependencies": {
     "@types/dotenv": "^6.1.1",
