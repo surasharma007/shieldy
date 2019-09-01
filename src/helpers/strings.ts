@@ -12,7 +12,7 @@ export function strings(chat: Chat, key: string) {
 
 export const localizations = {
   help: {
-    ruen: `Shieldy — is the best solution in Telegram to fight annoying spammers. It asks newcomers to execute a set action within a set period, otherwise it kicks them. It's this easy. Make sure @shieldy\\_bot is an admin at your chat and it's all done! You can also further setup the behaviour with the following commands:
+    ruen: `S.H.I.E.L.D — is the best solution in Telegram to fight annoying spammers. It asks newcomers to execute a set action within a set period, otherwise it kicks them. It's this easy. Make sure @shieldy\\_bot is an admin at your chat and it's all done! You can also further setup the behaviour with the following commands:
 
 /help — shows this message
 /language — switches language
@@ -41,7 +41,7 @@ Shieldy — это лучшее решение в Телеграме по бор
 /strict — используйте, если не хотите получать никакие сообщения от новичков кроме решения капчи, до прохождения капчи
 
 Остались вопросы? Почитайте канал поддержки — @borodutch\\_support. Код Shieldy в открытом доступе [вот тут](https://github.com/backmeupplz/shieldy). Спасибо!`,
-    en: `Shieldy — is the best solution in Telegram to fight annoying spammers. It asks newcomers to execute a set action within a set period, otherwise it kicks them. It's this easy. Make sure @shieldy\\_bot is an admin at your chat and it's all done! You can also further setup the behaviour with the following commands:
+    en: `S.H.I.E.L.D — is the best solution in Telegram to fight annoying spammers. It asks newcomers to execute a set action within a set period, otherwise it kicks them. It's this easy. Make sure @shieldy\\_bot is an admin at your chat and it's all done! You can also further setup the behaviour with the following commands:
 
 /help — shows this message
 /language — switches language
